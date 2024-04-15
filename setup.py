@@ -6,7 +6,7 @@ with open("README.md", "r", encoding='utf-8') as fh:
 setup(
     name="nth_api",
     author="user-sspmynxdvb",
-    version="1.3",
+    version="1.3.4",
     description="Name-That-Hash api version",
     license="GNUv3",
     url="https://github.com/user-sspmynxdvb/nth_api",
